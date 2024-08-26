@@ -23,7 +23,7 @@
 		<maven.compiler.target>8</maven.compiler.target>
 		<grade-core-persistence.version>${project.version}
 		</grade-core-persistence.version>
-		<springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
+		<springfox-swagger-ui.version>2.10.0</springfox-swagger-ui.version>
 		<springfox-swagger2.version>2.9.2</springfox-swagger2.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<maven-resources-plugin.version>2.5</maven-resources-plugin.version>
